@@ -1,9 +1,9 @@
 config = {'title':'desk',
           'base_url':'https://sfbay.craigslist.org',
-          'query':'glass wooden coffee table',
+          'query':'couch',
           'min_price':100,
           'max_price':300,
-          'required':['glass', 'wooden'],
-          'interests':['good condition', 'great condition'],
+          'required':['leather'],
+          'interests':['good condition','black', 'great condition'],
           'num_results':10,
           'email':'brandon@miraai.com'}
