@@ -192,7 +192,7 @@ class CraigsListScraper:
     ################################################################################  
          
     def scrape(self, config, max_results=300):
-        
+       	max_results = 200 
         queries = self.get_queries(config)
         info = []
         for query in queries:

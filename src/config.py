@@ -3,7 +3,7 @@ config = {'title':'desk',
           'query':'couch',
           'min_price':100,
           'max_price':300,
-          'required':['leather'],
-          'interests':['good condition','black', 'great condition'],
+          'required':['fabric'],
+          'interests':['good condition','black','white', 'great condition'],
           'num_results':10,
-          'email':'brandon@miraai.com'}
+          'email':'youremail'}
